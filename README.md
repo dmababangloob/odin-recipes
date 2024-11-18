@@ -1,6 +1,7 @@
 # odin-recipes
 
-This project is a simple recipe website that showcases a collection of different recipes
+This project is a simple recipe website that showcases a collection of different recipes.
+
 By the end of this project, I will have learned a couple of skills:
 
 
